@@ -1,6 +1,6 @@
 $PRTGServer = "https://prtg.ga.fr"
-$UserName = "user1703"
-$Passhash = "1148022530"
+$UserName = "votreIdentifiant"
+$Passhash = "**********"
 $OutputFile = "$HOME\PRTG-Export.csv"
 
 Write-Host "Début de l'extraction des données de PRTG..."
